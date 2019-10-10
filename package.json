@@ -1,0 +1,19 @@
+{
+  "name": "torontojs-webmidi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "@tonaljs/scale": "^3.2.3",
+    "audiokeys": "^0.1.1",
+    "lodash": "^4.17.15",
+    "tone": "^13.8.25",
+    "webmidi": "^2.5.1"
+  }
+}
